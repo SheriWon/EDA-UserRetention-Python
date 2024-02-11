@@ -6,9 +6,9 @@ In this context, the strategic use of coupons has emerged as a crucial tool for 
 To address these issues, personalized coupon delivery has emerged as a pivotal technique. By leveraging data analytics, businesses can tailor coupon offerings to match individual consumer preferences, thereby enhancing the relevance and effectiveness of their marketing efforts. This approach not only ensures that consumers receive meaningful incentives but also empowers businesses with greater precision in targeting and optimizing their promotional strategies.
 # Analysis Objectives
 
-    - Identify factors influencing the level of foot traffic in stores.
-    - Analyze customer spending habits.
-    - Evaluate the utilization of distributed coupons.
+- Identify factors influencing the level of foot traffic in stores.
+- Analyze customer spending habits.
+- Evaluate the utilization of distributed coupons.
     
 | field           | Description |
 | -----------     | ----------- |
@@ -20,7 +20,7 @@ To address these issues, personalized coupon delivery has emerged as a pivotal t
 | Date_received   | Date for users receiving coupon        |
 | Date            | Date for users shopping in store        |
 
-#  [Solution](https://github.com/SheriWon/EDA-UserRetention-Python/blob/master/project_O2O.ipynb)
+#  Solution [project_O2O.ipynb](https://github.com/SheriWon/EDA-UserRetention-Python/blob/master/project_O2O.ipynb)
 
 # Finding
 1. The busiest stores, frequented by the most customers, appear to be driven less by proximity or discount intensity. Instead, their popularity likely stems from factors such as product quality or overall shopping experience.
